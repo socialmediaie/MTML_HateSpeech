@@ -1,6 +1,6 @@
-# HASOC2019
+# Multi-Task Multi-Lingual HateSpeech Indentification
 
-Code and analysis for submission to [HASOC2019](https://hasoc2019.github.io/index.html) titled [3Idiots at HASOC 2019: Fine-tuning Transformer Neural Networks for Hate Speech Identiﬁcation in Indo-European Languages](http://ceur-ws.org/Vol-2517/T3-4.pdf)
+Code and analysis for submission to [HASOC2019](https://hasoc2019.github.io/index.html) titled [3Idiots at HASOC 2019: Fine-tuning Transformer Neural Networks for Hate Speech Identiﬁcation in Indo-European Languages](http://ceur-ws.org/Vol-2517/T3-4.pdf) as well as our upcoming Journal Paper titled **Exploring multi-task multi-lingual learning of transformer models for hate speech and offensive speech identification in social media**.
 
 Competition task description and evaluation metrics https://hasoc2019.github.io/call_for_participation.html
 
