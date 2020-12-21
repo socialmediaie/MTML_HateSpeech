@@ -37,8 +37,9 @@ Our code is part of the large Social Media Information Extraction project called
 
 ## Contributors
 
-* [Shubhanshu Mishra](https://github.com/napsternxg/)
 * [Sudhanshu Mishra](https://github.com/ghostktjMactavish)
+* [Shivangi Prasad](https://github.com/shivangiPhy)
+* [Shubhanshu Mishra](https://github.com/napsternxg/)
 
 
 ## Acknowledgements
